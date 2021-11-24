@@ -6,7 +6,7 @@
 Our dashboard is the same as project 3, using the same codes, but because we were unable to host our findings, we have decided to show our results with
 screen shots on our presentation.
 
-However, to execute the dashboard, please run the app.py in the "Group" file in our repository
+However, to execute the dashboard, please run the app.py in the "Group" folder in our repository
 
 ## Purpose
 
