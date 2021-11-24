@@ -1,4 +1,4 @@
-## Data Visualization Project 4
+# Data Visualization Project 4
 
 ## Retail Coffee Modeling Project
 
